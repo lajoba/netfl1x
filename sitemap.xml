@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://netfl1x.rf.gd/index.html</loc>
+    <lastmod>2020-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://netfl1x.rf.gd/images/ar-es-20200302-popsignuptwoweeks-perspective_alpha_website_large.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://netfl1x.rf.gd/images/580b57fcd9996e24bc43c529-crop-u127.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://netfl1x.rf.gd/images/tv-crop-u406.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://netfl1x.rf.gd/sin-t%C3%ADtulo-2.html</loc>
+    <lastmod>2020-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://netfl1x.rf.gd/assets/video-tv.m4v</loc>
+    <lastmod>2020-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

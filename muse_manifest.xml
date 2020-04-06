@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://netfl1x.rf.gd" resolutions="1x" timestamp="1585945489613">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="sin-t_tulo-2.css" crc="3833252442" ref="sin-título-2"/>
+    <file name="index.css" crc="4006181882" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="video-tv.m4v" crc="174366460" seo="true" mt="1585876927000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sin-título-2"/>
+    <file name="museutils.js" crc="3939489907" ref="index:sin-título-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sin-título-2"/>
+    <file name="museconfig.js" crc="128606099" ref="index:sin-título-2"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:sin-título-2"/>
+    <file name="webpro.js" crc="3856315280" ref="index:sin-título-2"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u293.php" crc="336580475" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:sin-título-2"/>
+    <file name="form-u466.php" crc="3920552202" ref="sin-título-2"/>
+  </folder>
+  <folder name="images">
+    <file name="ar-es-20200302-popsignuptwoweeks-perspective_alpha_website_large.jpg" crc="3805454898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c529-crop-u127.png" crc="4082512094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tv-crop-u406.png" crc="3789792100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="493543428" seo="true" mt="1585897417638" redirect="true"/>
+  <file name="sin-título-2.html" crc="433043230" seo="true" mt="1585945397155" redirect="true"/>
+</manifest>
